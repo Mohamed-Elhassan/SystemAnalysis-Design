@@ -9,6 +9,7 @@ Project Two: System Design Document
 In the System Design Document, I included extensive descriptions and UML diagrams such as Use Case, Activity, Sequence, and Class diagrams. These elements exemplify my ability to architect a system that is robust, scalable, and user-centric, ensuring it met the detailed specifications derived from the initial client requirements.
 
 Project Reflection: 
+
 Overview of the DriverPass Project
 The DriverPass project was about creating a digital platform to enhance the success rate of driving tests. The client, DriverPass, needed a system that could support user registration, lesson scheduling, progress tracking, and access to educational content for both students and instructors. The aim was to make learning and preparation more accessible and efficient.
 
